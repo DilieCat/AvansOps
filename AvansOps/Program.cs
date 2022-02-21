@@ -14,7 +14,7 @@ namespace AvansOps
             int b = 119;
             int c = a + b;
             Console.WriteLine(c);
-            Console.WriteLine("SonarQube test commit 2");
+            Console.WriteLine("SonarQube test commit 3");
             Console.ReadKey();
         }
     }
